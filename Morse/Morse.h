@@ -21,12 +21,11 @@
 class Morse
 {
   public:
-    Morse(int pin);
+    Morse( int pin );
     void dot();
     void dash();
-    void ledOn(          int pin );
-    void ledOff(         int pin );
-    void pinDigitalRead( int pin );
+    void ledOn(  int pin );
+    void ledOff( int pin );
 
   private:
     int _pin;

@@ -10,9 +10,6 @@ public:
     ~Inputs();
     int readReset();
     int readUndo();
-
-private:
-
 };
 
 #endif
