@@ -53,5 +53,8 @@ void loop() {
  * Holding down RESET will light up Team A's point 0.
  * Holding down UNDO will light up Team B's point 0.
  * 
+ * Results:
+ * Unfortunately no lights, no nothing when pushing any button.
+ * 
  *
  */
