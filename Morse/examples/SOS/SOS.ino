@@ -54,16 +54,11 @@ void loop() {
 
 /*
  * 
- * PCB#1 PB.tv1
- * Test Version #1
+ * PCB#1 PB.tv2
+ * Test Version 2
  * 
- * Monday July 18, 2022  1:00 PM
+ * Monday July 18, 2022  2:40 PM
  * 
- * Holding down RESET will light up Team A's point 0.
- * Holding down UNDO will light up Team B's point 0.
+ * Team A Point 0 should blink.
  * 
- * Results:
- * Unfortunately no lights, no nothing when pushing any button.
- * 
- *
  */
